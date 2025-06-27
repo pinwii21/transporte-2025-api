@@ -1,4 +1,4 @@
-const ORS_API_KEY = 'TU_CLAVE_AQUI'; // Reemplaza con tu clave de OpenRouteService
+const ORS_API_KEY = '5b3ce3597851110001cf624859fea25623cc4ffb91c21d11c2116c7d'; // Reemplaza con tu clave de OpenRouteService
 
 const map = L.map('map').setView([-0.22, -78.5], 12); // Quito, ajusta según tu área
 
