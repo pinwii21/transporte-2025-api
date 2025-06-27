@@ -1,0 +1,12 @@
+{
+"type": "FeatureCollection",
+"name": "personal",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Nombre": "Wellington Trávez ", "Lat": -0.09648848, "Long": -78.51991168000001, "SECTOR": "Sector: La Planada" }, "geometry": { "type": "Point", "coordinates": [ -78.51991168, -0.09648848 ] } },
+{ "type": "Feature", "properties": { "Nombre": "Gonzalo Toapanta", "Lat": -0.220074, "Long": -78.523595, "SECTOR": "Sector: San Roque" }, "geometry": { "type": "Point", "coordinates": [ -78.523595, -0.220074 ] } },
+{ "type": "Feature", "properties": { "Nombre": "Lenis Samueza", "Lat": -0.091949, "Long": -78.412041, "SECTOR": "Sector: San Miguel del Común" }, "geometry": { "type": "Point", "coordinates": [ -78.412041, -0.091949 ] } },
+{ "type": "Feature", "properties": { "Nombre": "David Escobar", "Lat": -0.216507, "Long": -78.5192196, "SECTOR": "Sector: El Tejar" }, "geometry": { "type": "Point", "coordinates": [ -78.5192196, -0.216507 ] } },
+{ "type": "Feature", "properties": { "Nombre": "Luis Simbaña", "Lat": -0.10629349, "Long": -78.39529838, "SECTOR": "Sector: Oyacoto" }, "geometry": { "type": "Point", "coordinates": [ -78.39529838, -0.10629349 ] } }
+]
+}
